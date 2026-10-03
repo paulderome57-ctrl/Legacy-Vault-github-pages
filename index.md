@@ -1,3 +1,7 @@
 ---
 title: Welcome to my blog!
 ---
+This app is designed to help anyone plus friends, family and executors to prepare for the inevitable passing away of a loved one.
+It is designed as a repository for all the information an executor may need to effectively manage the execution of the will of the principal/
+This requires the collection and recording of the principal's financial, social, legal  and family information in advance so there are no 
+surprises or gaps when the time comes.
