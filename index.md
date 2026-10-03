@@ -10,5 +10,5 @@ surprises or gaps when the time comes.
 
 
 <a href="https://github.com/paulderome57-ctrl/Legacy-Vault-github-pages/releases/download/v1.5/RelicVault.exe">
-  Download Desktop exe/
+  Download Desktop run file
 </a>
