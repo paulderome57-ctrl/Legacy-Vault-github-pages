@@ -1,5 +1,5 @@
 ---
-title: Welcome to Legacy Vault Executor Assistant
+title: Welcome to Legacy Hub Executor Assistant
 ---
 This app is designed to help anyone plus friends, family and executors to prepare for the inevitable passing away of a loved one.
 It is designed as a repository for all the information an executor may need to effectively manage the execution of the will of the principal.
