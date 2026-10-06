@@ -7,7 +7,7 @@ This requires the collection and recording of the principal's financial, social,
 surprises or gaps when the time comes.
 
 
-<img width="700" height="564" alt="Logo 2026-10-06" src="https://github.com/user-attachments/assets/9ced190a-cea3-4a30-a100-a4321f364613" />
+<img width="70" height="56" alt="Logo 2026-10-06" src="https://github.com/user-attachments/assets/9ced190a-cea3-4a30-a100-a4321f364613" />
 
 
 <a href="https://github.com/paulderome57-ctrl/Legacy-Vault-github-pages/releases/download/v1.5/RelicVault.exe">
