@@ -8,6 +8,7 @@ It is designed as a repository for all the information an executor may need to e
 This requires the collection and recording of the principal's financial, social, legal  and family information in advance so there are no 
 surprises or gaps when the time comes.
 
-<a href="https://github.com/paulderome57-ctrl/Legacy-Vault-github-pages/releases/download/v1.5/RelicVault.exe">
+<a href="https://github.com/paulderome57-ctrl/Legacy-Vault-github-pages/releases/latest/download/RelicVault.exe">
   Download Desktop run file
 </a>
+
