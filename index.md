@@ -1,8 +1,6 @@
 ---
 title: Welcome to Legacy Pack, your Executor Assistant
 ---
-<img width="140" height="112" alt="Logo 2026-10-06" src="https://github.com/user-attachments/assets/9ced190a-cea3-4a30-a100-a4321f364613" />
-
 **Secure your Legacy and Protect your loved ones from the frustration of not knowing where your information resides.**
 Ensure your Executor/s can find the information they need to manage your estate effectively.
 Using Legacy Pack, you can organize your legal directives, estate documents, financial information, access to your digital assets and final wishes in one central, private and secure space.
