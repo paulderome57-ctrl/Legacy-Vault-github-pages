@@ -14,8 +14,8 @@ Legacy Pack can also document your family tree, record critical contacts (doctor
 Let Legacy Pack give you the peace of mind in knowing you have done everything you can to ensure your executors have all they need to execute your wishes so that they can focus on celebrating your life knowing they won't miss anything and that your wishes will be met.
 
 <a href="https://github.com/paulderome57-ctrl/Legacy-Vault-github-pages/releases/latest/download/RelicVault-Setup.exe">
-  Download Desktop setup file
+  Download Desktop setup file v2.2
 </a>
 
-
-*Note* This update is v2.2
+To install the application, double-click the Setup file. If prompted Windows protected your PC, click [More Info] and then click [Run Anyway]
+(This is safe as it simply does not yet recognise the file).  
