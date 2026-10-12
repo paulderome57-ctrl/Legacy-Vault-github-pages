@@ -16,4 +16,4 @@ Let Legacy Pack give you the peace of mind in knowing you have done everything y
 <a href="https://github.com/paulderome57-ctrl/Legacy-Vault-github-pages/releases/latest/download/RelicVault-Setup.exe">
   Download Desktop setup file
 </a>
-
+*Note* This update is v2.2
